@@ -4,7 +4,7 @@
 
 ## Installation
 
-* git clone 
+* git clone https://github.com/Shimanshu83/Product.git
 
 * Set emvironment variable 
   - PORT 
